@@ -1,3 +1,11 @@
+.heading {
+    font-size: 50px;
+    font-weight: bold;
+    color: red;
+    text-shadow: 2px 2px 2px #1C6EA4;
+    text-align: center;
+}
+
 .forecast {
     margin: 0;
     padding: .3rem;
