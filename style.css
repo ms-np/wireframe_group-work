@@ -31,6 +31,16 @@ nav a:hover {
     font-weight: bold;
 }
 
+/* Main section */
+#main {
+    font-size: 20px;
+    padding: 10px;
+    margin: 20px;
+    line-height: 1.5em;
+    background-color: lightslategray;
+    color: white;
+}
+
 ul > li {
     display: inline;
     padding: 0 40px 0 40px; 
