@@ -1,9 +1,41 @@
+
+/* Header */
 .heading {
     font-size: 50px;
     font-weight: bold;
     color: red;
     text-shadow: 2px 2px 2px #1C6EA4;
     text-align: center;
+}
+
+/* Navigation */
+
+ul {
+    width: 90%;
+    margin: auto;
+    text-align: center;
+}
+
+nav a {
+    text-decoration: none;
+    color: aqua;
+    text-transform: uppercase;
+}
+
+nav a:visited {
+    color: blue;
+}
+
+nav a:hover {
+    color: darkslategray;
+    font-weight: bold;
+}
+
+ul > li {
+    display: inline;
+    padding: 0 40px 0 40px; 
+    font-size: 25px;
+    font-weight: bold;
 }
 
 .forecast {
