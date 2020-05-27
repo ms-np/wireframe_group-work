@@ -48,6 +48,7 @@ ul > li {
     font-weight: bold;
 }
 
+/* Article */
 .forecast {
     margin: 0;
     padding: .3rem;
@@ -71,4 +72,15 @@ ul > li {
 .day-forecast > p {
     margin: .2rem;
     font-size: 1rem;
+}
+
+/* Footer */
+
+footer {
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    background-color: blue;
+    color: #fff;
+    font-weight: bold;
 }
