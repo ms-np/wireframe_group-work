@@ -121,7 +121,31 @@ Styling for the new element
 
 ---
 
-## 5. Finishing Touches
+## 5. footer
+
+__As a site visitor, I want to know who  is the author of the page__
+
+> assigned to Nadia
+
+### Repository
+
+1. This user story was developed locally by Nadia on a brach called `footer`.
+1. The new branch was pushed to the shared repository
+1. A pull request was made to `master` & reviewed by the team
+1. Changes were merged to `master`
+
+### HTML
+
+- footer element with copyright text
+
+### CSS
+
+- Layout styling for the footer
+- Text styling for the footer
+
+---
+
+## 6. Finishing Touches
 
 __As a perfectionist, I want everything perfect :)__
 
