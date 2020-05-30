@@ -6,7 +6,7 @@ A basic web page with semantic layout, developed collaboratively using branches.
 
 ## Wireframe
 
-![wireframe](./Wireframe for group work.png)
+![wireframe](./Wireframe_for_group_work.png)
 
 ## 0. Set-Up
 
