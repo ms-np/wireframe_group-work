@@ -40,7 +40,18 @@ nav a:hover {
     background-color: lightslategray;
     color: white;
     float: left;
+    width: 95%;
 }
+
+#main p {
+    width: 60%;
+}
+
+#main aside {
+    margin-top: 200px;
+    width: 30%;
+}
+
 
 ul > li {
     display: inline;
@@ -51,10 +62,11 @@ ul > li {
 
 /* Article */
 .forecast {
-    margin: 0;
+    margin-top: 650px;
     padding: .3rem;
     background-color: #eee;
     font: 1rem 'Fira Sans', sans-serif;
+
 }
 
 .forecast > h1,
@@ -84,6 +96,7 @@ footer {
     background-color: blue;
     color: #fff;
     font-weight: bold;
+    width: 100%;
 }
 
 /* Aside element */
@@ -94,6 +107,8 @@ aside {
     float: right;
     font-style: italic;
     background-color: lightgray;
+    display: flex;
+    flex-direction: column;
 }
 
 aside > p {
